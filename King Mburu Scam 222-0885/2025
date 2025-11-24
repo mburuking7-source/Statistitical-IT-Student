@@ -1,0 +1,103 @@
+:KING MBURUNAME
+REG. NO:SCM222-0885/2025
+
+TOPIC 1:The Role of IT and Computers in today’s society
+
+ -IT can be described as the discipline responsible for intergrating systems into existing analytic and 
+    operational workflows.
+-Across financial engineering,it refers to the full technological ecosystem needed to:
+          >Store large datasets
+          >Process them using appropriate computational models
+          >Retrieve information rapidly for decision making
+          >Transmit data securely across networks
+-Computers are an intergrated system whose components collaborate to execute complex analytical 
+   workflows.
+  -The role of computers in financial engineering includes;
+              >Running high speed option pricing model and algorithmic trading strategies.
+              >Determining execution latency in high frequency trading systems.
+    
+
+Topic 2:Fundamentals of computer operations
+   -Input-process-output cycle
+          >Data enters the computer and is processed by CPU and the results are produced through output
+  -Binary systems
+         >0s and 1s
+   -Central processing unit
+       >Has the Arithmetic and logic unit and the Control unit
+   -Memory and storage
+        >Has the primary memory[RAM] and the secondary storage
+        > primary memory is temporary while the secondary storage is permanent
+   -Operating system
+      >It manages files,memories,hardware devices and running programs
+
+TOPIC 3:Basics of computer hardware and software
+   1.Computer Hardware
+   -Hardware refers to tangible and physical components
+        >Input devices-Keyboard
+                                 -Mouse
+        > Output devices-Monitor 
+                                     -printer
+        >Storage devices-Hard disk drive
+                                       -Solid state drive  
+                                       -flash drives 
+                                       -memory card
+        >Processing components-CPU,GPU
+        >Memory-temporarily stores data for quick access[RAM]
+        >Motherboard
+
+  2.Computer software
+  -Refers to intangible instructions that tell the hardware what to do
+        >System software-operating system
+                                       -Device drivers
+                                         -Utility programs
+         >Application software-Microsoft word
+                                                -EXCEL
+                                                 -Google chrome
+                                                 -Games
+
+TOPIC 4:Diffrent means of disk storage
+   1. Hard disk drive-uses magnetic disks called platters
+   2.Solid state drive-uses flash memory
+  3.Optical storage-uses lasers to read/write data on disks
+        -Types-CD,DVD,Blu-ray
+   4.USB flash drives-portable devices using flash memory
+    5.Memory cards-small flash storage used in phones/cameras
+    6.External hard drives-portable HDD/SDD connected via USB
+    7.Cloud storage-data stored in remote servers accessed through the internet
+
+TOPIC 5:How to construct data files and examples
+CSV
+Text file with rows and columns.
+
+
+Columns separated by commas.
+
+
+Example: name,age\nAlice,30
+
+
+JSON
+Structured data using objects {} and arrays [].
+
+
+Key–value pairs.
+
+
+Example: {"name": "Alice", "age": 30}
+
+
+XML
+Hierarchical markup with opening/closing tags.
+
+
+Example: <user><name>Alice</name></user>
+
+
+Binary
+Data stored as raw bytes.
+
+
+Requires defining a byte structure and writing with a programming language.
+Custom Formats
+       You define the structure, separators, and rules.
+Must document how data is stored.
